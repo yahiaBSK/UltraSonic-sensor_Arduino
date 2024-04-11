@@ -1,4 +1,7 @@
 
+# UltraSonic-sensor & arduino & LCD
+- Detect and calculating the distance, of an object by Arduino board using ultrasonic sensor and print that value in a LCD display.
+![](https://i.ibb.co/BBL463Y/Ultra-sonic.gif)
 ## Used Copmonents
 
 - Arduino Uno (or ESP32 it can be used, both have the same c++ code).
